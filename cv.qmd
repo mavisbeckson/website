@@ -1,0 +1,45 @@
+---
+title: "Curriculum Vitae"
+---
+
+```{=html}
+<p><a class="btn-pill solid" href="files/[TO BE SUPPLIED].pdf"><i class="bi bi-download" aria-hidden="true"></i> Download full CV (PDF)</a> <span class="todo">[TO BE SUPPLIED] — add PDF to files/</span></p>
+```
+
+## Education
+
+```{=html}
+<div class="timeline">
+  <div class="t-item"><div class="rail"><div class="dot open"></div><div class="stem"></div></div>
+    <div><div class="when">2023</div><h3>Ph.D.</h3><div class="where">New Mexico State University</div></div></div>
+  <div class="t-item"><div class="rail"><div class="dot open"></div><div class="stem"></div></div>
+    <div><div class="when">2018</div><h3>M.A.</h3><div class="where">New Mexico State University</div></div></div>
+  <div class="t-item"><div class="rail"><div class="dot open"></div><div class="stem"></div></div>
+    <div><div class="when">2015</div><h3>B.A.</h3><div class="where">Kwame Nkrumah University of Science and Technology</div></div></div>
+</div>
+```
+
+## Experience
+
+```{=html}
+<div class="timeline">
+  <div class="t-item"><div class="rail"><div class="dot"></div><div class="stem"></div></div>
+    <div><div class="when">2025</div><h3>[ROLE TO BE SUPPLIED]</h3><div class="where">Site header lists: Assistant Professor, Department of English, University of Nebraska–Lincoln</div></div></div>
+  <div class="t-item"><div class="rail"><div class="dot"></div><div class="stem"></div></div>
+    <div><div class="when">Fall 2015</div><h3>Research Assistant</h3><div class="where">[INSTITUTION TO BE SUPPLIED]</div></div></div>
+  <div class="t-item"><div class="rail"><div class="dot"></div><div class="stem"></div></div>
+    <div><div class="when">Summer 2015</div><h3>Research Assistant</h3><div class="where">[INSTITUTION TO BE SUPPLIED]</div></div></div>
+</div>
+```
+
+## Publications
+
+See the [Publications](publications.qmd) page for the full list.
+
+## Presentations
+
+[[TO BE SUPPLIED]]{.todo}
+
+## Awards & service
+
+[[TO BE SUPPLIED]]{.todo}

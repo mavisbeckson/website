@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mavis Boatemaa Beckson"
+  site-url: "https://mbeckson2.github.io/"
+  description: "Assistant Professor, Department of English, University of Nebraska–Lincoln"
+  navbar:
+    background: light
+    right:
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "CV"
+        href: cv.qmd
+  page-footer:
+    left: "© 2026 Mavis Boatemaa Beckson"
+    right: "Department of English, University of Nebraska–Lincoln"
+
+format:
+  html:
+    theme: [cosmo, unl.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,28 @@
+---
+title: "Research"
+---
+
+## Focus
+
+My work follows African feminist and cultural relationality with material things, especially how these material objects shape lives and agency in multicultural African spaces, with a particular focus on African and minoritized communities and coalitional mediated activism. It makes space for Black African women's cultural practices that shed light on communal resilience, uncommon rhetorical performances, and digital material contexts.
+
+## Areas of interest
+
+```{=html}
+<div class="cards">
+  <div class="card-i"><h3>African Feminisms</h3><p>[FOCUS DETAILS TO BE SUPPLIED]</p></div>
+  <div class="card-i"><h3>Digital and Cultural Media</h3><p>[FOCUS DETAILS TO BE SUPPLIED]</p></div>
+  <div class="card-i"><h3>Global Black Feminisms</h3><p>[FOCUS DETAILS TO BE SUPPLIED]</p></div>
+  <div class="card-i"><h3>Writing and Cultural Material Practices</h3><p>[FOCUS DETAILS TO BE SUPPLIED]</p></div>
+  <div class="card-i"><h3>Human and Non-Human Relationality</h3><p>[FOCUS DETAILS TO BE SUPPLIED]</p></div>
+  <div class="card-i"><h3>Composition, Rhetoric, and Multicultural Pedagogies</h3><p>[FOCUS DETAILS TO BE SUPPLIED]</p></div>
+</div>
+```
+
+## Current projects
+
+[[TO BE SUPPLIED]]{.todo}
+
+## Teaching
+
+[[TO BE SUPPLIED]]{.todo} — courses taught at the University of Nebraska–Lincoln.

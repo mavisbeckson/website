@@ -1,0 +1,61 @@
+---
+title: "Publications"
+---
+
+## Journal articles
+
+```{=html}
+<ol class="pubs">
+  <li>
+    <div class="yr">2020</div>
+    <div class="entry">
+      <div class="title">Transforming Feminist Narratives and Participation of African Marginalized Women Through Ceremonial Beads</div>
+      <div class="meta"><strong>Beckson, Boatemaa Mavis</strong> · <em>Peitho Journal</em>, Volume 22, Issue 3, Spring 2020.</div>
+      <div><span class="tag t-article">Peer-reviewed article</span></div>
+    </div>
+  </li>
+</ol>
+```
+
+## Book chapters
+
+```{=html}
+<ol class="pubs">
+  <li>
+    <div class="yr">In prog.</div>
+    <div class="entry">
+      <div class="title">On Being Black African Immigrant Teacher: Rethinking Representation at the Intersection of Language, Race, and Inclusivity in Higher Education</div>
+      <div class="meta"><strong>Beckson, Boatemaa Mavis</strong> · To be published in <em>The Black Caucus Project Collection</em>, edited by Richard Green and Jamal Cooks. NCTE Press. Tentative publication year, 2023.</div>
+      <div><span class="tag t-prog">Book chapter · in progress</span><span class="tag t-prog">[CURRENT STATUS TO BE SUPPLIED]</span></div>
+    </div>
+  </li>
+</ol>
+```
+
+## Book reviews
+
+```{=html}
+<ol class="pubs">
+  <li>
+    <div class="yr">2022</div>
+    <div class="entry">
+      <div class="title">Review of <em>Black or Right: Anti/Racist Campus Rhetorics</em> by Louis M. Maraj</div>
+      <div class="meta"><em>Rhetoric Society Quarterly</em>, Volume 52, Issue 2, May 2022.</div>
+    </div>
+  </li>
+  <li>
+    <div class="yr">2021</div>
+    <div class="entry">
+      <div class="title">Review of <em>Black Perspectives in Writing Program Administration: From Margins to Center</em></div>
+      <div class="meta">Edited by Stacy Perryman-Clark and Collin Lamont Craig. <em>College Composition and Communication</em>, Volume 73, No. 1, September 2021.</div>
+    </div>
+  </li>
+  <li>
+    <div class="yr">2020</div>
+    <div class="entry">
+      <div class="title">Review of <em>Culturally Speaking: The Rhetoric of Voice and Identity in Mediated Culture</em> by Edgar, Nell Amanda</div>
+      <div class="meta"><em>Peitho Journal</em>, Volume 23, Issue 1, Fall 2020.</div>
+    </div>
+  </li>
+</ol>
+```
